@@ -94,11 +94,7 @@ class Paused(State):
 class Info(Paused):
     nextState = Level
     text = '''
-    In this games you are a banana,
-    trying to survive a course in 
-    self-defense against fruit, where
-    the participants will "defend" themselves
-    against you with a 16 ton weight.
+    In this game you are a banana-split.
     '''
 
 class StartUp(Paused):
