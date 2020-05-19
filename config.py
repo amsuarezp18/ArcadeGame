@@ -10,10 +10,11 @@ screen_size = 800,600
 # White color for the background
 background_color = 255, 255, 255
 margin = 30
-full_screen = 48
+full_screen = 1
+font_size = 40
 
 # These affect the behavior of the game
-drop_speed = 5
+drop_speed = 2
 banana_spreed = 10
 speed_increase = 1
 weights_per_level = 10
